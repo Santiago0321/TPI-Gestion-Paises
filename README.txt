@@ -77,10 +77,10 @@ Cantidad de países por continente:
  - Europa     : 1
 
 VIDEO DEMOSTRATIVO
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+https://drive.google.com/file/d/1_DR_YMxeviso1-kmjguoPnaySOQneSgQ/view?usp=drive_link
 
 INFORME PDF
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+https://github.com/Santiago0321/TPI-Gestion-Paises/blob/main/TPI_Programacion1_MezaSantiago.pdf
 
 REQUISITOS TÉCNICOS
 - Python 3.x estándar (sin bibliotecas externas).
